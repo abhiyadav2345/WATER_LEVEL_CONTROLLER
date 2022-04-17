@@ -9,7 +9,8 @@
 
 ``EMBEDDED SYSTEM , EMBEDDED C, ARM PROCESSOR, KEIL uVISION,PROTEUS, EASY EDA``
 
-```Keil uVision ARM IDE is used for writing code and for generating .obj and .hex file.
+```
+Keil uVision ARM IDE is used for writing code and for generating .obj and .hex file.
 
 Proteus 7 is used for the simulation of the project
 
