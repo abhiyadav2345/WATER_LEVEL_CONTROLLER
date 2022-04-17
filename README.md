@@ -29,8 +29,8 @@ Team Member Socials: AbhiYadav#5319
 
 ## Links and References: 
 
-- [Devfolio](abhiyadav2345)
+- [Devfolio](https://devfolio.co/@Abhiyadav2345)
 
-- [GitHub](abhiyadav2345)
+- [GitHub](https://github.com/abhiyadav2345)
 
 - [Youtube](your_demo_video_link_here)
