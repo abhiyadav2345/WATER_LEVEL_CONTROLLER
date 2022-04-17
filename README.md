@@ -10,7 +10,7 @@
 
 ## Team Description
 
-``I am an individual Contestent, ``
+``I am an individual Contestent ``
 
 ```
 Team Member Name: ABHISHEK YADAV
@@ -22,7 +22,8 @@ Team Member Socials: AbhiYadav#5319
 
 ## Screenshots and reference Images
 
-``It includes some screenshots and images of your project.``
+``some screenshots and images of project.``
+
 ![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/3D%20Model.PNG) 
 ![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/Real%203d.png) 
 ![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/real%20img.png)
