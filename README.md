@@ -6,16 +6,16 @@
 
 ## Tech Stack Used
 
-``It includes the technological aspect of your project submitted``
+``EMBEDDED SYSTEM , EMBEDDED C, ARM PROCESSOR, KEIL uVISION,PROTEUS, EASY EDA``
 
 ## Team Description
 
 ``It includes all your team members information in the following format: ``
 
 ```
-Team Member Name: 
-Team Member GitHub: 
-Team Member Socials: Twitter/Linkedin/DiscordTag
+Team Member Name: ABHISHEK YADAV
+Team Member GitHub: abhiyadav2345
+Team Member Socials: AbhiYadav#5319
 ```
 
 ``NOTE: This information will only be used for official interaction purposes.``
@@ -26,8 +26,8 @@ Team Member Socials: Twitter/Linkedin/DiscordTag
 
 ## Links and References: 
 
-- [Devfolio](your_devfolio_link_here)
+- [Devfolio](abhiyadav2345)
 
-- [GitHub](your_github_link_here)
+- [GitHub](abhiyadav2345)
 
 - [Youtube](your_demo_video_link_here)
