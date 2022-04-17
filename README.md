@@ -7,6 +7,9 @@
 ## Tech Stack Used
 
 ``EMBEDDED SYSTEM , EMBEDDED C, ARM PROCESSOR, KEIL uVISION,PROTEUS, EASY EDA``
+``Keil uVision ARM IDE is used for writing code and for generating .obj and .hex file.``
+``Proteus 7 is used for the simulation of the project``
+``Easy EDA is used for Schematic and PCB designing , 3D Model of this project is also generated using Easy EDA.``
 
 ## Team Description
 
@@ -18,7 +21,6 @@ Team Member GitHub: abhiyadav2345
 Team Member Socials: AbhiYadav#5319
 ```
 
-``NOTE: This information will only be used for official interaction purposes.``
 
 ## Screenshots and reference Images
 
