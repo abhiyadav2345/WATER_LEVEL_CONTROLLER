@@ -23,7 +23,7 @@ Team Member Socials: AbhiYadav#5319
 ## Screenshots and reference Images
 
 ``It includes some screenshots and images of your project.``
-[image](real 3d.png) [image](proteus.png) [image](Schematic_Water level indicator and controller using 8051_2022-04-16.png)
+[image](images/Real 3d.png) [image](proteus.png) [image](Schematic_Water level indicator and controller using 8051_2022-04-16.png)
 
 ## Links and References: 
 
