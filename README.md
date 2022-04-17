@@ -1,8 +1,8 @@
-# Project Name here
+# WATER LEVEL CONTROLLER
 
-## Title
+## 
 
-``It includes the introduction to your hack which you are submitting as your final project. ``
+`` Water Level Controller will help in automatically controlling the water motor by sensing the water level in a tank. ``
 
 ## Tech Stack Used
 
@@ -10,7 +10,7 @@
 
 ## Team Description
 
-``It includes all your team members information in the following format: ``
+``I am an individual Contestent, ``
 
 ```
 Team Member Name: ABHISHEK YADAV
