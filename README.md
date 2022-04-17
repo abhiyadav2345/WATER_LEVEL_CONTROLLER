@@ -23,7 +23,9 @@ Team Member Socials: AbhiYadav#5319
 ## Screenshots and reference Images
 
 ``It includes some screenshots and images of your project.``
-![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/3D%20Model.PNG) [image](proteus.png) [image](Schematic_Water level indicator and controller using 8051_2022-04-16.png)
+![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/3D%20Model.PNG) 
+![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/Real%203d.png) 
+![image](https://github.com/abhiyadav2345/WATER_LEVEL_CONTROLLER/blob/master/images/real%20img.png)
 
 ## Links and References: 
 
